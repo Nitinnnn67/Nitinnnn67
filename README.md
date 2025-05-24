@@ -8,45 +8,74 @@
 
 ## 💫 About Me
 
-```txt
-🎓 Pursuing: BSc in Computer Science  
-🎯 Goal: Crack MCA CET 2025 | Land a dream dev job  
-💻 Passion: MERN Stack | Java Development | Smart AI Projects  
-🔥 Project: Hand gesture recognition + ChatGPT chatbot  
-🏋️‍♂️ Daily Routine: Code, Gym, Repeat  
-📍 Base: India 🇮🇳
-| Language 💬   | Frameworks 🚀 | Database 🗄 | Tools & Tech 🧰 |
-| ------------- | ------------- | ----------- | --------------- |
-| Java ☕        | React ⚛️      | MongoDB 🍃  | Git & GitHub 🐙 |
-| JavaScript 🟨 | Node.js 🌐    | MySQL 🐬    | Postman 📪      |
-| HTML & CSS 🎨 | Express 🚂    |             | VS Code 💻      |
-| Python 🐍     | Bootstrap 🎀  |             | Figma 🎨        |
-🌱 Currently Learning
--🔥 MERN Stack In-depth (React + Node + Express + MongoDB)
--🧠 Java DSA for interview prep
--🎓 Logical Reasoning + Aptitude for MCA Entrance
--✨ UI/UX Designing Basics to boost frontend skills
+- 🎓 Pursuing BSc in Computer Science  
+- 🎯 Goal: Crack MCA CET 2025 & grab a great dev job  
+- 💻 Passionate about MERN Stack, Java Dev & Cool AI Projects  
+- 🔥 Currently building a hand gesture → text + OpenAI chatbot  
+- 🏋️‍♂️ Daily routine = Code + Gym + Chill  
+- 📍 India 🇮🇳
+
 ---
-## 🚀 Featured Projects
-| Project Name    | Description                                             | Tech Stack                 |
-| --------------- | ------------------------------------------------------- | -------------------------- |
-| 🤖 Gesture GPT  | Converts hand signs to text + uses OpenAI for replies   | Python, OpenCV, OpenAI API |
-| 🌐 College Site | Frontend for college using HTML/CSS (for a competition) | HTML, CSS                  |
-| 📊 Portfolio    | A personal responsive dev portfolio                     | React, Tailwind            |
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="49%" /> <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&border_radius=6.5" width="49%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&bg_color=0d1117&color=00ffe5&line=00ffb3&point=ffffff&area=true&hide_border=true" /> </p>
-📬 Let's Connect & Collaborate
-💼 LinkedIn
-🌐 Portfolio
-📧 your.email@gmail.com
 
-🧠 Quote That Drives Me
-"Success isn’t owned. It’s leased. And rent is due every day."
-— Grind in gym, grind in code 🧑‍💻🏋️‍♂️
+## 🛠 Tech Stack
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> </p>
+**Languages:**  
+`Java` `JavaScript` `HTML` `CSS` `Python`
 
-😎 Bonus Vibe Badges
-<p align="center"> <img src="https://img.shields.io/badge/MCA_CET-2025-blue?style=for-the-badge&logo=target" /> <img src="https://img.shields.io/badge/GYM-Freak-black?style=for-the-badge&logo=workplace" /> <img src="https://img.shields.io/badge/FullStack-🔥-brightgreen?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Code-Lifestyle-ff69b4?style=for-the-badge&logo=github" /> </p>
- ```
+**Frameworks & Libraries:**  
+`React.js` `Node.js` `Express.js` `Bootstrap`
+
+**Databases & Tools:**  
+`MongoDB` `MySQL` `Git` `GitHub` `Postman` `VS Code` `Figma`
+
+---
+
+## 🌱 Currently Learning
+
+- MERN Stack Deep Dive 🌐  
+- Java DSA for Interviews 💡  
+- Aptitude + Logic for MCA CET 📚  
+- UI/UX Basics for Clean Frontend 🎨
+
+---
+
+## 💼 Projects
+
+### 🤖 Gesture GPT  
+Hand gesture → Text converter + ChatGPT based replies  
+**Tech:** Python, OpenCV, OpenAI API  
+
+### 🌐 College Website (HTML/CSS Comp.)  
+Built a clean, responsive site using just HTML & CSS  
+**Tech:** HTML, CSS, Notepad  
+
+### ⚡ Personal Portfolio  
+Showcasing skills & projects with smooth UI  
+**Tech:** React.js, Tailwind CSS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+- 📧 your.email@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 [Portfolio](https://your-portfolio.com)
+
+---
+
+> _“Success isn’t owned. It’s leased. And rent is due every day.”_
+
+---
+
+<p align="center"><b>💪 Code karo. Gym jao. Repeat karo.</b> 🔁</p>
 
