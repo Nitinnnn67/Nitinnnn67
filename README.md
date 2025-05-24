@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Full+Stack+Developer+%7C+MCA+Aspirant+2025;💻+Java+Lover+%7C+React+Explorer+%7C+Node+Ninja;🧠+Tech+Enthusiast+%7C+Fitness+Freak+%7C+Code+%2B+Gym+Grind+Daily" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -71,7 +75,7 @@ Showcasing skills & projects with smooth UI
 
 ## 📬 Connect with Me
 
-- 📧 nitinvishwakarma9138@gmail.com 
+- 📧 your.email@gmail.com  
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nitin-vishwakarma-75840430a/))  
 - 🌐 [Portfolio](https://your-portfolio.com)
 
