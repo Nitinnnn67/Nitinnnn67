@@ -11,10 +11,9 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing BSc in Computer Science  
-- 🎯 Goal: Crack MCA CET 2025 & grab a great dev job  
+- 🎓 Pursuing Bachelor's in Computer Science  
+- 🎯 Goal: Grab a great engineer,dev job  
 - 💻 Passionate about MERN Stack, Java Dev & Cool AI Projects  
-- 🔥 Currently building a hand gesture → text + OpenAI chatbot  
 - 🏋️‍♂️ Daily routine = Code + Gym + Chill  
 - 📍 India 🇮🇳
 
@@ -74,7 +73,7 @@ Showcasing skills & projects with smooth UI
 
 ## 📬 Connect with Me
 
-- 📧 your.email@gmail.com  
+- 📧 nitinvishwakarma9138@gmail.com 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nitin-vishwakarma-75840430a/))  
 - 🌐 [Portfolio](https://your-portfolio.com)
 
