@@ -19,23 +19,27 @@
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-`Java` `JavaScript` `HTML` `CSS` `Python`
-
-**Frameworks & Libraries:**  
-`React.js` `Node.js` `Express.js` `Bootstrap`
-
-**Databases & Tools:**  
-`MongoDB` `MySQL` `Git` `GitHub` `Postman` `VS Code` `Figma`
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- MERN Stack Deep Dive 🌐  
-- Java DSA for Interviews 💡  
-- Aptitude + Logic for MCA CET 📚  
-- UI/UX Basics for Clean Frontend 🎨
+🔥 MERN Stack Deep Dive 🌐  
+🧠 Java DSA for Interviews 💡  
+🎓 Aptitude + Logic for MCA CET 📚  
+✨ UI/UX Basics for Clean Frontend 🎨
 
 ---
 
@@ -68,7 +72,7 @@ Showcasing skills & projects with smooth UI
 ## 📬 Connect with Me
 
 - 📧 nitinvishwakarma9138@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nitin-vishwakarma-75840430a/))  
 - 🌐 [Portfolio](https://your-portfolio.com)
 
 ---
@@ -78,4 +82,3 @@ Showcasing skills & projects with smooth UI
 ---
 
 <p align="center"><b>💪 Code karo. Gym jao. Repeat karo.</b> 🔁</p>
-
