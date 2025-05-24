@@ -58,16 +58,16 @@ Showcasing skills & projects with smooth UI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitinnnn67&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Nitinnnn67&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📬 Connect with Me
 
-- 📧 your.email@gmail.com  
+- 📧 nitinvishwakarma9138@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
 - 🌐 [Portfolio](https://your-portfolio.com)
 
