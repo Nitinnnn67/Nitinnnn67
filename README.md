@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Nitin — Welcome to My Digital Playground 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE1&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Full+Stack+Developer+%7C+MCA+Aspirant+2025;💻+Java+Lover+%7C+React+Explorer+%7C+Node+Ninja;🧠+Tech+Enthusiast+%7C+Fitness+Freak+%7C+Code+%2B+Gym+Grind+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFE1&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer+%7C+MCA+Aspirant+2025;💻+Java+%26+React+Enthusiast;🔥+Code+%2B+Gym+%3D+Everyday+Routine;🇮🇳+From+India" />
 </p>
 
 <p align="center">
