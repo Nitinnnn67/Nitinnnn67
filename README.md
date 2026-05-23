@@ -21,10 +21,11 @@ I enjoy solving real-world technical problems, designing backend architectures, 
 ## 💼 Experience
 
 ### 🚀 Web Development Intern — Saket Group
-- Managing multiple official production websites
-- Full-stack development, deployment, maintenance, and optimization
-- Website architecture planning and technical management
-- Bug fixing, performance improvements, and live system support
+- Leading development of multiple official websites under Saket Group
+- Designed, built, deployed, and currently maintaining production-grade institutional web platforms
+- Handling full-stack development including frontend, backend, database integration, and deployment
+- Responsible for website architecture, technical planning, feature development, and ongoing optimization
+- Managing bug fixes, performance improvements, production support, and technical upgrades
 
 **Tech:** React, JavaScript, Flask, SQL, Docker
 
