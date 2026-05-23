@@ -1,86 +1,264 @@
-<h1 align="center">✨ Hey, I'm Nitin — Welcome to My Digital Playground 👨‍💻</h1>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFE1&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer+%7C+MCA+Aspirant+2025;💻+Java+%26+React+Enthusiast;🔥+Code+%2B+Gym+%3D+Everyday+Routine;🇮🇳+From+India" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Nitin%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Lead&descAlignY=58&descSize=18"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Full+Stack+Developer+with+Real+World+Experience;MERN+Stack+%7C+Java+%7C+Python+%7C+DSA;Managing+Production+Websites+at+Saket+Group;AI+Projects+%7C+Backend+Systems+%7C+Problem+Solving" />
 
-<p align="center">
- <img src=" <img src="https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200"/>" width="200"/>
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```javascript
+const nitin = {
+  name: "Nitin Vishwakarma",
+  role: "Full Stack Developer",
+  location: "India",
+  education: "Bachelor of Computer Science",
+  experience: "1+ Years",
+  expertise: [
+    "Full Stack Web Development",
+    "Backend Development",
+    "REST API Design",
+    "Database Architecture",
+    "Deployment & Maintenance",
+    "Data Structures & Algorithms",
+    "Real-Time Applications"
+  ],
+  languages: ["Java", "Python", "JavaScript"],
+  currentFocus: ["Scalable Applications", "DSA", "System Design"]
+}
+```
+
+Passionate Full Stack Developer with hands-on experience building scalable web applications, backend systems, AI-powered platforms, and production-grade institutional websites.
+
+Currently managing development, deployment, maintenance, optimization, and technical operations for multiple official websites under **Saket Group**, handling complete website architecture and production systems.
+
+Strong in **Data Structures & Algorithms**, backend engineering, and building real-world full-stack applications.
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Web Development Intern — Saket Group
+
+Currently responsible for development and technical management of multiple official websites under Saket Group.
+
+### Responsibilities
+- Managing multiple production websites
+- Website architecture planning
+- Frontend and backend development
+- Deployment and server handling
+- Maintenance and bug fixing
+- Performance optimization
+- Technical improvements and upgrades
+- Production issue resolution
+
+**Tech Stack:**  
+`React` `JavaScript` `HTML` `CSS` `Flask` `SQL` `Docker`
+
+---
+
+## 🏫 Full Stack Web Development Intern — Saket College
+
+Led development of the official college platform from planning to deployment.
+
+### Contributions
+- Built full-stack dynamic college platform
+- Developed frontend using React
+- Built backend services using Flask
+- Integrated SQL database systems
+- Student directory development
+- Dynamic announcements modules
+- Form management systems
+- Deployment using Docker
+
+**Tech Stack:**  
+`React` `Flask` `SQL` `Docker`
+
+---
+
+## 🎓 Web Development Intern — Prutsim College
+
+Built and deployed official college website from scratch.
+
+### Contributions
+- Full website development
+- Responsive UI implementation
+- Cross-device optimization
+- UI/UX improvements
+- Content collaboration with faculty
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+## Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+## Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+## Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
 
-## 💫 About Me
+# 🧠 Data Structures & Algorithms
 
-- 🎓 Pursuing Bachelor's in Computer Science  
-- 🎯 Goal: Grab a great engineer,dev job  
-- 💻 Passionate about MERN Stack, Java Dev & Cool AI Projects  
-- 🏋️‍♂️ Daily routine = Code + Gym + Chill  
-- 📍 India 🇮🇳
+Actively practicing DSA for problem solving and software engineering growth.
 
----
+### Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Hashing
+- Recursion
+- Backtracking
+- Searching Algorithms
+- Sorting Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Greedy Algorithms
+- Time & Space Complexity Optimization
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-🔥 MERN Stack Deep Dive 🌐  
-🧠 Java DSA for Interviews 💡  
-🎓 Aptitude + Logic for MCA CET 📚  
-✨ UI/UX Basics for Clean Frontend 🎨
+**Primary Language:** `Java`
 
 ---
 
-## 💼 Projects
+# 🚀 Featured Projects
 
-### 🤖 Gesture GPT  
-Hand gesture → Text converter + ChatGPT based replies  
-**Tech:** Python, OpenCV, OpenAI API  
+## 🤝 DevConnect — Developer Collaboration Platform
 
-### 🌐 College Website (HTML/CSS Comp.)  
-Built a clean, responsive site using just HTML & CSS  
-**Tech:** HTML, CSS, Notepad  
+Scalable full-stack collaboration platform for developers.
 
-### ⚡ Personal Portfolio  
-Showcasing skills & projects with smooth UI  
-**Tech:** React.js, Tailwind CSS
+### Features
+- Real-time chat with Socket.io
+- Secure JWT authentication
+- Skill-based developer matching
+- Team collaboration workflow
+- Task management
+- REST API backend
+- Responsive modern UI
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitinnnn67&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Nitinnnn67&theme=tokyonight" />
-</p>
+### Tech Stack
+`Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
 
 ---
 
-## 📬 Connect with Me
+## 🧠 AI Diary — AI Powered Journaling Platform
 
-- 📧 nitinvishwakarma9138@gmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nitin-vishwakarma-75840430a/))  
-- 🌐 [Portfolio](https://your-portfolio.com)
+Intelligent journaling platform powered by AI.
+
+### Features
+- AI-generated insights
+- Mood analysis
+- Personalized recommendations
+- Text-to-speech
+- Social posting features
+- Likes & comments
+- Privacy controls
+
+### Tech Stack
+`MERN Stack` `Google Gemini API`
 
 ---
 
-> _“Success isn’t owned. It’s leased. And rent is due every day.”_
+## 🌐 Institutional Web Systems
+
+Production-grade educational platforms developed for real-world use.
+
+### Includes
+- Official college websites
+- Student directory systems
+- Dynamic announcements
+- Form handling
+- Admin workflows
+- Content management systems
+
+### Tech Stack
+`React` `Flask` `SQL` `Docker`
 
 ---
 
-<p align="center"><b>💪 Code karo. Gym jao. Repeat karo.</b> 🔁</p>
+# 🏆 Achievements
+
+- 🏅 Research Publication — International Journal of VLSI Research and Applications (IJVRA)
+- 🏅 National Level Research Paper Publication
+- 🏅 Coding Contest Winner
+- 🏅 Technical Team Lead
+- 🏅 Built and managed multiple production websites
+- 🏅 Full-stack application development experience
+
+---
+
+# 📚 Education
+
+### Bachelor of Computer Science
+**Mumbai University** (2023 – 2026)
+
+### Higher Secondary Education
+**R.K. Talreja College**
+
+### Secondary Education
+**St. Mary's School**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitinnnn67&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinnnn67&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinnnn67&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-vishwakarma-75840430a)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitinnnn67)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinvishwakarma9138@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Building Real Products • Solving Real Problems • Learning Every Day
+
+</div>
