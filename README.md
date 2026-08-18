@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=9&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+production-ready+applications;Full+Stack+%7C+FinTech+%7C+AI+%7C+Real-Time;Designing+scalable+backend+systems;Building+and+shipping+real-world+products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+production-ready+applications;Full+Stack+%7C+FinTech+%7C+AI+%7C+Real-Time;Designing+scalable+backend+systems;Building+and+shipping+real-world+products"/>
 
-<br><br>
+<br>
 
 <a href="mailto:nitinvishwakarma9138@gmail.com">📧 nitinvishwakarma9138@gmail.com </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 🇮🇳 India
 
-<br><br>
+<br>
 
 <a href="https://github.com/Nitinnnn67">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
