@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="mailto:nitinvishwakarma9138@gmail.com">📧 Email</a>
+<a href="mailto:nitinvishwakarma9138@gmail.com">📧 nitinvishwakarma9138@gmail.com </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="tel:+919137199583">📱 +91 9137199583</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -294,14 +294,35 @@ Currently strengthening **Data Structures & Algorithms with Java**.
 
 # Education
 
-**Bachelor of Science in Computer Science**  
-University of Mumbai · `2023 — 2026`
+### Master of Computer Applications (MCA)
 
-**Higher Secondary Education**  
-R.K. Talreja College · Maharashtra State Board
+**Thakur Institute of Management Studies, Career Development & Research (TIMSCDR)**
 
-**Secondary Education**  
-St. Mary's School · Maharashtra State Board
+`2026 — Present`
+
+---
+
+### Bachelor of Science in Computer Science
+
+**University of Mumbai**
+
+`2023 — 2026`
+
+---
+
+### Higher Secondary Education
+
+**R.K. Talreja College**
+
+Maharashtra State Board
+
+---
+
+### Secondary Education
+
+**St. Mary's School**
+
+Maharashtra State Board
 
 ---
 
