@@ -95,10 +95,6 @@ Building a production-oriented platform focused on **paper trading and market si
 
 <br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinnnn67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinnnn67&theme=react-dark&hide_border=true&area=true&line=22D3EE&point=FFFFFF&custom_title=Coding%20Activity"/>
 
 </div>
