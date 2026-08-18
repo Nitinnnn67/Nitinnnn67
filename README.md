@@ -1,56 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:12304a,100:0891b2&height=210&section=header&text=Nitin%20Vishwakarma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Real-Time%20Systems&descAlignY=61&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:0C2235,100:0891B2&height=230&section=header&text=Nitin%20Vishwakarma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20FinTech%20%7C%20AI%20%7C%20Real-Time%20Systems&descAlignY=62&descAlign=50"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;Working+with+AI+and+real-time+technologies;Building+FinTech+%26+full-stack+products;Learning%2C+building%2C+shipping"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;Building+FinTech+and+real-time+products;Integrating+AI+into+real-world+applications;Learning+%7C+Building+%7C+Shipping"/>
 
 <br><br>
 
 <a href="https://finmentos.tech/">
-<img src="https://img.shields.io/badge/FinMentos-Live%20Project-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20FINMENTOS-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Nitinnnn67">
-<img src="https://img.shields.io/badge/GitHub-Nitinnnn67-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/nitin-vishwakarma-75840430a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I'm **Nitin Vishwakarma**, a **Full Stack Developer** from India focused on building reliable, scalable and user-focused software.
+### FULL STACK · FINTECH · AI · REAL-TIME · BACKEND · DEVOPS
 
-I work across the complete development lifecycle — from designing interfaces and APIs to databases, deployment, performance optimization and production maintenance.
+</div>
 
-My current work spans:
+<br>
 
-* Full-stack web applications
-* FinTech and paper-trading systems
-* Real-time applications
-* AI-powered products
-* REST APIs and backend architecture
-* Docker-based deployment
-* Database and performance optimization
+## `whoami`
 
-Currently, I'm strengthening my **Data Structures & Algorithms, system design and production engineering** skills while working on real-world projects.
+I'm **Nitin Vishwakarma**, a Full Stack Developer from India focused on building software that solves practical problems.
+
+I work across the stack — from **frontend interfaces and backend APIs to databases, real-time systems, deployment and production maintenance**.
+
+My current work is centered around:
+
+- Full-stack web applications
+- FinTech and paper-trading systems
+- Real-time data workflows
+- AI-powered products
+- Backend architecture
+- Docker-based deployments
+- Performance and reliability
+
+> **I like taking an idea from a concept → to a working product → to production.**
 
 ---
 
-## GitHub
+# Currently Building
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitinnnn67&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github"/>
+<table>
+<tr>
+<td width="65%">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Nitinnnn67&theme=tokyonight&hide_border=true"/>
+## FinMentos
+
+### Paper Trading & FinTech Platform
+
+A production-oriented platform focused on **paper trading and market simulation**.
+
+**Core areas**
+
+`Market Data` · `Trading` · `Portfolio` · `Watchlists` · `Analytics`
+
+**Engineering**
+
+`React` · `Node.js` · `Express.js` · `PostgreSQL` · `Prisma` · `Redis` · `Docker`
+
+</td>
+
+<td width="35%" align="center">
+
+<br>
+
+<a href="https://finmentos.tech/">
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<br><br>
+
+**Freelance Project**
+
+2026 — Present
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# GitHub
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Nitinnnn67&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=Nitinnnn67&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -58,346 +112,329 @@ Currently, I'm strengthening my **Data Structures & Algorithms, system design an
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinnnn67&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinnnn67&theme=tokyo-night&hide_border=true&area=true&custom_title=Nitin%27s%20Contribution%20Activity" width="95%"/>
 
 </div>
 
 ---
 
-## Experience
+# Experience
 
-### Freelance Full Stack Developer — FinMentos
+## Freelance Full Stack Developer — FinMentos
 
 **2026 — Present**
 
-Building a production-oriented **paper-trading and FinTech platform** for simulated market activity.
+Building and maintaining a production-oriented **paper-trading and FinTech platform**.
 
-**Work includes:**
+### Responsibilities
 
-* Designing and developing full-stack application features
-* Working with real-time market-data workflows
-* Building trading, portfolio and watchlist functionality
-* Developing backend APIs and database architecture
-* Working with authentication and subscription workflows
-* Optimizing backend performance and data flow
-* Docker-based deployment and production maintenance
-* Debugging, monitoring and continuous feature development
+- Full-stack feature development
+- Trading and portfolio workflows
+- Real-time market-data workflows
+- Backend API development
+- Database architecture and optimization
+- Authentication and subscription workflows
+- Docker-based deployment
+- Production debugging and maintenance
+- Performance optimization
 
-**Stack:** `React` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Redis` `Docker`
+**Stack**
 
-**Live:** [finmentos.tech](https://finmentos.tech/)
+`React` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Redis` `Docker`
 
----
-
-### Web Development Intern — Saket Group
-
-**Production Web Development**
-
-* Developed and maintained institutional web platforms
-* Worked across frontend, backend, database and deployment
-* Implemented new features and production fixes
-* Worked on performance optimization and system improvements
-* Handled ongoing maintenance of live applications
-
-**Stack:** `React` `JavaScript` `Flask` `SQL` `Docker`
+**Live:** https://finmentos.tech/
 
 ---
 
-### Full Stack Web Development — Saket College
+## Web Development Intern — Saket Group
 
-**College Platform Development**
+### Production Web Development
 
-* Led development of the official college website
-* Built dynamic student directory and content management features
-* Developed forms, announcements and administrative workflows
-* Worked on responsive frontend and backend architecture
-* Managed production deployment and maintenance
+- Developed and maintained institutional web platforms
+- Worked across frontend, backend, database and deployment
+- Implemented new features and production fixes
+- Worked on performance improvements
+- Managed ongoing production maintenance
 
-**Stack:** `React` `Flask` `SQL` `Docker`
+**Stack**
 
----
-
-### Web Developer — Prutsim College
-
-**Institutional Website Development**
-
-* Developed and deployed the official college website
-* Created responsive layouts and modern UI components
-* Worked with faculty for content and website updates
-* Ensured cross-device compatibility
-
-**Stack:** `HTML` `CSS` `JavaScript`
+`React` `JavaScript` `Flask` `SQL` `Docker`
 
 ---
 
-## Technical Skills
+## Full Stack Web Development — Saket College
+
+### Official College Platform
+
+- Led development of the official college website
+- Built student directory and dynamic content features
+- Developed announcements and form workflows
+- Worked on responsive frontend and backend architecture
+- Managed deployment and maintenance
+
+**Stack**
+
+`React` `Flask` `SQL` `Docker`
+
+---
+
+## Web Developer — Prutsim College
+
+### Institutional Website
+
+- Built and deployed the official college website
+- Developed responsive interfaces
+- Worked with faculty on website content
+- Improved cross-device compatibility and UI
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,sql"/>
 
 ### Frontend
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B2?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
 
 ### Backend & Databases
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis"/>
 
 ### DevOps & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker"/>
 
-### AI & APIs
-
-<p>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20APIs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST-009688?style=for-the-badge"/>
-</p>
-
----
-
-## Featured Projects
-
-### FinMentos — Paper Trading Platform
-
-**Freelance Client Project**
-
-A production-oriented platform for **paper trading and market simulation**.
-
-#### Key Areas
-
-* Real-time market data
-* Trading and order workflows
-* Portfolio and positions
-* Watchlists
-* Market analytics
-* User authentication
-* Subscription workflows
-* Backend APIs
-* Database architecture
-* Performance optimization
-* Dockerized deployment
-
-**Technology:** `React` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Redis` `Docker`
-
-**Live:** https://finmentos.tech
-
----
-
-### DevConnect — Developer Collaboration Platform
-
-A full-stack platform designed to help developers connect, collaborate and manage projects.
-
-#### Features
-
-* Real-time communication using Socket.io
-* JWT authentication
-* Developer skill matching
-* Collaboration workflows
-* Task management
-* REST APIs
-* Responsive frontend
-
-**Technology:** `React` `Node.js` `Express.js` `MongoDB` `Socket.io` `Tailwind CSS`
-
-**Live:** [DevConnect](https://dev-connect-zr8t.onrender.com/)
-
----
-
-### AI Diary — AI-Powered Journaling Platform
-
-An AI-powered journaling application that provides intelligent insights from user entries.
-
-#### Features
-
-* AI-powered mood analysis
-* Google Gemini integration
-* Personalized AI suggestions
-* Text-to-speech
-* Rich text journaling
-* Social features
-* Authentication and privacy controls
-
-**Technology:** `Node.js` `Express.js` `MongoDB` `EJS` `Tailwind CSS` `Gemini API`
-
-**Live:** [AI Diary](https://ai-diary-8x64.onrender.com/)
-
----
-
-### Institutional Web Systems
-
-Production-oriented websites and web platforms developed for educational institutions.
-
-#### Areas
-
-* Institutional websites
-* Student directories
-* Announcements and news
-* Form management
-* Administrative workflows
-* Authentication
-* Role-based access control
-* Production maintenance
-
-**Technology:** `React` `Flask` `SQL` `Docker` `REST APIs`
-
----
-
-## Problem Solving & DSA
-
-Currently strengthening **Data Structures & Algorithms using Java**.
-
-### Areas of Focus
-
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Trees & Binary Search Trees
-* Recursion & Backtracking
-* Hashing
-* Sorting & Searching
-* Dynamic Programming
-* Graph Algorithms
-* Time & Space Complexity
-
-**Goal:** Build strong problem-solving fundamentals and write efficient, scalable solutions.
-
----
-
-## Education
-
-### Bachelor of Science in Computer Science
-
-**University of Mumbai**
-**2023 — 2026**
-
----
-
-### Higher Secondary Education
-
-**R.K. Talreja College**
-Maharashtra State Board
-
----
-
-### Secondary Education
-
-**St. Mary's School**
-Maharashtra State Board
-
----
-
-## Research & Achievements
-
-* Published research work in the **International Journal of VLSI Research and Applications (IJVRA)**
-* Participated in computer science research and technical presentations
-* Worked on real-world production systems for educational institutions
-* Led technical development work across multiple projects
-* Building client-facing software through freelance development
-
----
-
-## Currently Working On
-
-```text
-FinMentos
-    └── Paper Trading & FinTech Platform
-
-Full Stack Development
-    └── Scalable Web Applications
-
-Backend Engineering
-    └── APIs • Databases • Redis • Performance
-
-DevOps
-    └── Docker • Deployment • Production Systems
-
-AI
-    └── AI-powered applications & integrations
-
-DSA
-    └── Java • Algorithms • Problem Solving
-```
-
----
-
-## Development Approach
-
-<div align="center">
-
-### Understand → Design → Build → Test → Deploy → Improve
+</div>
 
 <br>
 
-I focus on building software that is:
+<div align="center">
 
-**Reliable** · **Maintainable** · **Scalable** · **Secure** · **User-focused**
+`REST APIs` · `JWT` · `Socket.io` · `Google Gemini API`
 
 </div>
 
 ---
 
-## Connect
+# Featured Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="mailto:nitinvishwakarma9138@gmail.com">
-<img src="https://img.shields.io/badge/Email-nitinvishwakarma9138%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## FinMentos
 
-<a href="https://linkedin.com/in/nitin-vishwakarma-75840430a">
-<img src="https://img.shields.io/badge/LinkedIn-Nitin%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Paper Trading Platform**
 
-<a href="https://github.com/Nitinnnn67">
-<img src="https://img.shields.io/badge/GitHub-Nitinnnn67-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Production-oriented FinTech platform focused on paper trading and market simulation.
+
+**Focus**
+
+- Real-time market data
+- Trading workflows
+- Portfolio & positions
+- Watchlists
+- Market analytics
+- Authentication
+- Subscriptions
+- Backend architecture
+- Production deployment
+
+**Stack**
+
+`React` `Node.js` `PostgreSQL` `Prisma` `Redis`
+
+<br>
 
 <a href="https://finmentos.tech/">
-<img src="https://img.shields.io/badge/FinMentos-Live%20Project-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
 
-**Open to freelance projects, collaborations and interesting engineering opportunities.**
+<td width="50%">
+
+## DevConnect
+
+**Developer Collaboration Platform**
+
+A full-stack platform for developer collaboration, skill matching and project management.
+
+**Features**
+
+- Real-time chat
+- JWT authentication
+- Skill matching
+- Task management
+- Collaboration workflows
+- REST APIs
+- Responsive UI
+
+**Stack**
+
+`React` `Node.js` `MongoDB` `Socket.io`
+
+<br>
+
+<a href="https://dev-connect-zr8t.onrender.com/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## AI Diary
+
+**AI-Powered Journaling Platform**
+
+An intelligent journaling platform combining AI analysis with social and productivity features.
+
+**Features**
+
+- Gemini-powered mood analysis
+- AI suggestions
+- Text-to-speech
+- Rich text journaling
+- Social interactions
+- Authentication
+- Privacy controls
+
+**Stack**
+
+`Node.js` `Express.js` `MongoDB` `Gemini`
+
+<br>
+
+<a href="https://ai-diary-8x64.onrender.com/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## Institutional Web Systems
+
+**Production Educational Platforms**
+
+Web platforms developed for educational institutions.
+
+**Areas**
+
+- Institutional websites
+- Student directories
+- Announcements
+- Forms
+- Administrative workflows
+- Authentication
+- Role-based access
+- Production maintenance
+
+**Stack**
+
+`React` `Flask` `SQL` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+# What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### WEB
+
+Scalable web applications
+
+</td>
+
+<td align="center" width="33%">
+
+### FINTECH
+
+Trading & market systems
+
+</td>
+
+<td align="center" width="33%">
+
+### AI
+
+AI-powered products
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### REAL-TIME
+
+Live data & events
+
+</td>
+
+<td align="center">
+
+### BACKEND
+
+APIs & architecture
+
+</td>
+
+<td align="center">
+
+### DEVOPS
+
+Docker & deployment
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
+# Problem Solving
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Build+with+purpose.;Solve+real+problems.;Keep+learning.;Ship+better+software."/>
+Currently strengthening **Data Structures & Algorithms with Java**.
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:12304a,100:0b1220&height=110&section=footer"/>
-
-</div>
+```text
+Arrays & Strings
+        ↓
+Linked Lists
+        ↓
+Stacks & Queues
+        ↓
+Trees & BST
+        ↓
+Recursion & Backtracking
+        ↓
+Hashing
+        ↓
+Sorting & Searching
+        ↓
+Dynamic Programming
+        ↓
+Graphs
+        ↓
+Systematic Problem Solving
