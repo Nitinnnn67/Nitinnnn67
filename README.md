@@ -1,26 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:071A2B,70:0E4F63,100:0891B2&height=260&section=header&text=Nitin%20Vishwakarma&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20FinTech%20%7C%20AI%20%7C%20Real-Time&descAlignY=62&descAlign=50"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;Building+FinTech+%26+real-time+products;Integrating+AI+into+real-world+applications;Learning+%7C+Building+%7C+Shipping"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:071A2B,70:0E4F63,100:0891B2&height=270&section=header&text=Nitin%20Vishwakarma&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20FinTech%20%7C%20AI%20%7C%20Real-Time%20Systems&descAlignY=59&descAlign=50"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1300&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=REACT+%E2%80%A2+NODE.JS+%E2%80%A2+POSTGRESQL+%E2%80%A2+REDIS+%E2%80%A2+DOCKER;FINTECH+%E2%80%A2+AI+%E2%80%A2+REAL-TIME+%E2%80%A2+BACKEND;BUILD+%E2%80%A2+SHIP+%E2%80%A2+OPTIMIZE+%E2%80%A2+REPEAT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+production-ready+web+applications;Designing+scalable+backend+systems;Building+FinTech+%26+real-time+products;Integrating+AI+into+real-world+applications;Learning+%7C+Building+%7C+Shipping"/>
 
 <br><br>
 
-<a href="https://finmentos.tech/">
-<img src="https://img.shields.io/badge/◉%20LIVE%20PROJECT-FinMentos-22D3EE?style=for-the-badge&labelColor=06131F&logo=googlechrome&logoColor=22D3EE"/>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 📧 Email
+
+<a href="mailto:nitinvishwakarma9138@gmail.com">
+nitinvishwakarma9138@gmail.com
 </a>
 
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Phone
+
+<a href="tel:+919137199583">
++91 9137199583
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📍 Location
+
+India 🇮🇳
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <a href="https://github.com/Nitinnnn67">
-<img src="https://img.shields.io/badge/GITHUB-Nitinnnn67-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-Nitinnnn67-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/nitin-vishwakarma-75840430a">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-Nitin%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://finmentos.tech/">
+<img src="https://img.shields.io/badge/FinMentos-Live%20Project-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:nitinvishwakarma9138@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1500&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=REACT+%E2%80%A2+NODE.JS+%E2%80%A2+POSTGRESQL+%E2%80%A2+REDIS+%E2%80%A2+DOCKER;FINTECH+%E2%80%A2+AI+%E2%80%A2+REAL-TIME+%E2%80%A2+BACKEND;BUILD+%E2%80%A2+SHIP+%E2%80%A2+OPTIMIZE+%E2%80%A2+REPEAT"/>
 
 </div>
 
@@ -32,11 +74,11 @@
 
 </div>
 
-## `whoami`
+# `whoami`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+Nitin+Vishwakarma;%24+role;%3E+Full+Stack+Developer;%24+focus;%3E+FinTech+%7C+AI+%7C+Real-Time+Systems;%24+status;%3E+Building+%26+Shipping"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+Nitin+Vishwakarma;%24+role;%3E+Full+Stack+Developer;%24+focus;%3E+FinTech+%7C+AI+%7C+Real-Time+Systems;%24+status;%3E+Building+%26+Shipping"/>
 
 </div>
 
@@ -48,7 +90,7 @@ I work across the complete application lifecycle:
 
 **Frontend → Backend → Database → Infrastructure → Deployment → Optimization**
 
-My current work revolves around:
+My current work is focused on:
 
 - Full-stack web applications
 - FinTech and paper-trading systems
@@ -75,7 +117,7 @@ My current work revolves around:
 <table>
 <tr>
 
-<td width="70%">
+<td width="68%">
 
 ## FinMentos
 
@@ -97,7 +139,7 @@ A production-oriented platform focused on **paper trading, market simulation and
 
 </td>
 
-<td width="30%" align="center">
+<td width="32%" align="center">
 
 <img src="https://img.shields.io/badge/%E2%97%89%20LIVE-22C55E?style=for-the-badge&labelColor=06131F"/>
 
@@ -107,7 +149,7 @@ A production-oriented platform focused on **paper trading, market simulation and
 
 **2026 — Present**
 
-<br>
+<br><br>
 
 <a href="https://finmentos.tech/">
 <img src="https://img.shields.io/badge/OPEN-FinMentos-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -285,7 +327,7 @@ Building and maintaining a production-oriented **paper-trading and FinTech platf
 
 Production-oriented FinTech system for paper trading and market simulation.
 
-**Focus**
+### Focus
 
 - Market data
 - Trading workflows
@@ -296,6 +338,8 @@ Production-oriented FinTech system for paper trading and market simulation.
 - Authentication
 - Backend architecture
 - Production deployment
+
+**Stack**
 
 `React` `Node.js` `PostgreSQL` `Redis`
 
@@ -315,7 +359,7 @@ Production-oriented FinTech system for paper trading and market simulation.
 
 A full-stack platform for developer collaboration and project management.
 
-**Focus**
+### Focus
 
 - Real-time chat
 - JWT authentication
@@ -323,6 +367,9 @@ A full-stack platform for developer collaboration and project management.
 - Task management
 - Collaboration
 - REST APIs
+- Responsive interface
+
+**Stack**
 
 `React` `Node.js` `MongoDB` `Socket.io`
 
@@ -342,11 +389,11 @@ A full-stack platform for developer collaboration and project management.
 
 ## AI Diary
 
-**AI-Powered Journaling**
+**AI-Powered Journaling Platform**
 
 AI-powered journaling platform combining intelligent analysis with social features.
 
-**Focus**
+### Focus
 
 - Gemini integration
 - Mood analysis
@@ -354,6 +401,9 @@ AI-powered journaling platform combining intelligent analysis with social featur
 - Text-to-speech
 - Rich text journaling
 - Social features
+- Authentication
+
+**Stack**
 
 `Node.js` `Express.js` `MongoDB` `Gemini`
 
@@ -367,21 +417,23 @@ AI-powered journaling platform combining intelligent analysis with social featur
 
 <td width="50%">
 
-## Institutional Systems
+## Institutional Web Systems
 
 **Production Educational Platforms**
 
 Web systems developed and maintained for educational institutions.
 
-**Focus**
+### Focus
 
 - Institutional websites
 - Student directories
 - Announcements
 - Forms
-- Admin workflows
+- Administrative workflows
 - Authentication
-- Role-based access
+- Role-based access control
+
+**Stack**
 
 `React` `Flask` `SQL` `Docker`
 
