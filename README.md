@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:071A2B,70:0E4F63,100:0891B2&height=240&section=header&text=Nitin%20Vishwakarma&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20FinTech%20%7C%20AI%20%7C%20Real-Time%20Systems&descAlignY=61&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:071A2B,70:0E4F63,100:0891B2&height=240&section=header&text=Nitin%20Vishwakarma&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20FinTech%20%7C%20AI%20%7C%20Real-Time%20Systems&descAlignY=61&descAlign=50"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+production-ready+applications;Full+Stack+%7C+FinTech+%7C+AI+%7C+Real-Time;Designing+scalable+backend+systems;Building+and+shipping+real-world+products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=9&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+production-ready+applications;Full+Stack+%7C+FinTech+%7C+AI+%7C+Real-Time;Designing+scalable+backend+systems;Building+and+shipping+real-world+products"/>
 
 <br><br>
 
